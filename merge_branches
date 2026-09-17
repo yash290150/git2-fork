@@ -1,0 +1,6 @@
+$ git checkout main
+Switched to branch 'main'
+$ git merge bug-fix-typo
+aeb7b0b Fix typo in README footer
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
